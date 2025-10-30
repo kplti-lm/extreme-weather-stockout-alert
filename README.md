@@ -1,2 +1,14 @@
-# extreme-weather-stockout-alert
-Early Weather-Driven Stockout Alert: a simple, fully local and free MVP to anticipate stockout risk from extreme weather, reproducible on Linux. It uses open data (weather + sample sales), PostgreSQL in Docker, and a Python/Dash app to compute weekly anomalies, train a ML model, and display results.
+# Early Weather-Driven Stockout Alert
+
+## Goal
+Build a reproducible, 100% local and free MVP that detects potential stockout risks caused or amplified by extreme weather events.
+
+## What you will get
+- Public GitHub repository (Linux-first)
+- PostgreSQL + Docker + Python/Dash app
+- Reproducible scripts: ingest → weekly anomalies →  ML model → dashboard
+
+## How it will be evaluated
+- Reproducibility in a fresh Linux environment
+- Ability to show weekly anomalies and weather impact
+- Simplicity of the dashboard and code
