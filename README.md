@@ -12,3 +12,7 @@ Build a reproducible, 100% local and free MVP that detects potential stockout ri
 - Reproducibility in a fresh Linux environment
 - Ability to show weekly anomalies and weather impact
 - Simplicity of the dashboard and code
+
+## How to start
+git clone https://github.com/kplti-lm/extreme-weather-stockout-alert.git
+cd extreme-weather-stockout-alert
