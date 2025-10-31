@@ -15,4 +15,5 @@ Build a reproducible, 100% local and free MVP that detects potential stockout ri
 
 ## How to start
 git clone https://github.com/kplti-lm/extreme-weather-stockout-alert.git
+
 cd extreme-weather-stockout-alert
