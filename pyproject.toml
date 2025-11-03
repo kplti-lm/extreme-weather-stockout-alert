@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "extreme_weather_stockout_alert"
+version = "0.1.0"
+description = "Early Weather-Driven Stockout Alert"
+authors = ["Lucia M Cappelletti"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+black = "^25.9.0"
+isort = "^7.0.0"
+pytest = "^8.4.2"
+pre-commit = "^4.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
